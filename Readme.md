@@ -44,4 +44,4 @@ Once you’ve customized the content, you can:
 3. Use it as a professional portfolio or resume.
 
 Project URL:
-https://github.com/Anubhav7070/Roadmap/blob/main/CV.html
+https://roadmap.sh/projects/single-page-cv
